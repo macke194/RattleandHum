@@ -1,0 +1,33 @@
+body {
+  font-family: "Helvetica Neue", sans-serif;
+  background-color: #708090
+}
+
+span {
+  color: 	#8B0000;
+
+}
+h1 {
+  color:#FFFFFF;
+}
+h2 {
+  color:	#000000;
+}
+h3 {
+  color: 	#8B0000;
+}
+h4 {
+  color:	#000000;
+}
+
+#contact {
+  background-color: #708090;
+  padding: 2%;
+}
+
+
+
+img {
+  display: block;
+  width: 100%;
+}
