@@ -1,5 +1,5 @@
 body {
-  font-family: "Helvetica Neue", sans-serif;
+  font-family: "Futura", sans-serif;
   background-color: #708090
 }
 
@@ -30,4 +30,16 @@ h4 {
 img {
   display: block;
   width: 100%;
+}
+
+.images
+{
+display:inline-block;
+margin: 0px;
+padding: 0px;
+}
+#band
+
+*{
+    float:right;
 }
