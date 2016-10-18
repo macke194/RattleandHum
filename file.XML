@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding= "utf-8"?>
+<?xml-stylesheet type="text/css" href="filex.css"?>
+
+<!DOCTYPE Performance
+[
+<!ELEMENT City (location, dates, album, song)>
+<!ELEMENT Location (#PCDATA)>
+<!ELEMENT Dates (#PCDATA)>
+<!ELEMENT Album (#PCDATA)>
+<!ELEMENT Songs (#PCDATA)>
+]>
+
+<performance>
+  <City>Minneapolis</City>
+    <location type="bar">O'Donovan's Irish Pub</location>
+    <dates>March 17th</dates>
+    <playlist>Greatest Hits:</playlist>
+    <song>Until the End of the World</song>
+    <song>Beautiful Day</song>
+    <song>New Year's Day</song>
+    <song>Vertigo</song>
+    <song>Gloria</song>
+</performance>

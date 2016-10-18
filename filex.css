@@ -1,0 +1,68 @@
+performance
+{
+  font-family: Helvetica;
+  font-weight: bolder;
+  width: 300px;
+  display : block;
+  padding : 20pt;
+  border : 1px Solid: #5E5E60
+  margin : 5px;
+  text-align: left;
+}
+
+City
+{
+  color :#C41837;
+  font-weight: bold;
+  font-size : 360%;
+  display : block;
+  margin-top : 3%
+}
+
+location
+{
+  color :#6A6969;
+  font-weight: normal;
+  font-family: "Times New Roman", Georgia, Serif;
+  font-style: italic;
+  text-align: center;
+  font-size : 125%;
+  display : block;
+
+}
+
+dates
+{
+  color :#6A6969;
+  font-weight: lighter;
+  font-family: "Times New Roman", Georgia, Serif;
+  text-align: center;
+  font-size : 140%;
+  display : block;
+
+
+}
+
+playlist
+{
+  color :#C41837;
+  font-weight: normal;
+  font-family: "American Typewriter";
+  font-style: italic;
+  text-align: center;
+  font-size : 120%;
+  display : block;
+  margin-top : 3%
+}
+
+song
+{
+  color :#000000;
+  font-weight: bold;
+  font-family: "Futura";
+  font-style: italic;
+  text-align: center;
+  font-size : 85%;
+  display : block;
+
+}
