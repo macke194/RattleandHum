@@ -6,32 +6,33 @@ performance
   display : block;
   padding : 20pt;
   border : 1px Solid: #5E5E60
-  margin : 5px;
+  margin : 7px;
   text-align: left;
 }
 
-City
+show
 {
   color :#C41837;
   font-weight: bold;
-  font-size : 360%;
+  font-size : 200%;
   display : block;
   margin-top : 3%
 }
 
-location
+venue
 {
   color :#6A6969;
   font-weight: normal;
   font-family: "Times New Roman", Georgia, Serif;
   font-style: italic;
-  text-align: center;
+  text-align: left;
   font-size : 125%;
   display : block;
+  margin-top : 8%
 
 }
 
-dates
+date
 {
   color :#6A6969;
   font-weight: lighter;
@@ -39,20 +40,22 @@ dates
   text-align: center;
   font-size : 140%;
   display : block;
+  margin-top : 3%
 
 
 }
 
-playlist
+location
 {
   color :#C41837;
   font-weight: normal;
   font-family: "American Typewriter";
   font-style: italic;
-  text-align: center;
+  text-align: left;
   font-size : 120%;
   display : block;
   margin-top : 3%
+
 }
 
 song
@@ -61,8 +64,14 @@ song
   font-weight: bold;
   font-family: "Futura";
   font-style: italic;
-  text-align: center;
+  text-align: left;
   font-size : 85%;
   display : block;
+margin-top : 5%
+
+}
+
+
+
 
 }

@@ -3,21 +3,21 @@
 
 <!DOCTYPE Performance
 [
-<!ELEMENT City (location, dates, album, song)>
-<!ELEMENT Location (#PCDATA)>
+<!ELEMENT Show (venue, date,location, song)>
+<!ELEMENT Venue (#PCDATA)>
 <!ELEMENT Dates (#PCDATA)>
-<!ELEMENT Album (#PCDATA)>
+<!ELEMENT Location (#PCDATA)>
 <!ELEMENT Songs (#PCDATA)>
 ]>
 
 <performance>
-  <City>Minneapolis</City>
-    <location type="bar">O'Donovan's Irish Pub</location>
-    <dates>March 17th</dates>
-    <playlist>Greatest Hits:</playlist>
-    <song>Until the End of the World</song>
-    <song>Beautiful Day</song>
-    <song>New Year's Day</song>
-    <song>Vertigo</song>
-    <song>Gloria</song>
+  <show>St. Patty's Day</show>
+    <venue type="bar">O'Donovan's Irish Pub</venue>
+    <date>March 17th</date>
+    <location>Minneapolis</location>
+    <song>"Until the End of the World"</song>
+    <song>"Beautiful Day"</song>
+    <song>"New Year's Day"</song>
+    <song>"Vertigo"</song>
+    <song>"Gloria"</song>
 </performance>
